@@ -7,7 +7,7 @@ A repository to share my work as I learn to be a data analyst/ data scientist
 **Start Date** 24 November, 2022 
 
 ## Next Course: ##
-[Introduction to Probability from Harvard University](https://www.edx.org/course/introduction-to-probability)\
+[Introduction to Probability from Harvard University](https://www.edx.org/course/introduction-to-probability)
 
 ## Courses to be considered ## 
 [Statistical Learning from Stanford University](https://www.edx.org/course/statistical-learning)\
