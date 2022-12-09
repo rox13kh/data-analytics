@@ -3,8 +3,10 @@
 A repository to share my work as I learn to be a data analyst/ data scientist 
 
 ## Current course: ##
-[R Programming from Johns Hopkins University](https://www.coursera.org/learn/r-programming)\
-**Start Date** 24 November, 2022 
+| Course  | Start Date |
+| :---    | :---       | 
+| [R Programming from Johns Hopkins University](https://www.coursera.org/learn/r-programming)  | 24 November, 2022  |
+
 
 ## Next Course: ##
 [Introduction to Probability from Harvard University](https://www.edx.org/course/introduction-to-probability)
